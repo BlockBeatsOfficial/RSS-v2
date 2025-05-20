@@ -17,7 +17,7 @@ Once subscribed through your preferred RSS reader, the feed automatically delive
 #### Header
 
 ```
-"language":cn //language cn,en,cht
+"language":cn // Available: cn (简体中文), en (English), cht (繁體中文)
 ```
 
 
